@@ -9,7 +9,7 @@ For example,
 and move them to your /usr/local/bin directory
 
 ## charc
-A Linux Command to get the number of characters containing in a string
+A Linux Command to get the number of characters a string contains
 
 Usage:
   ``` charc <string> ```
