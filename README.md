@@ -2,9 +2,9 @@
 A collection of utilities that I created to make life a bit easier
 
 Compile files with
-  make <filename> 
+  ``` make <filename> ``` 
 For example,
-  make charc
+  ``` make charc ```
 
 and move them to your /usr/local/bin directory
 
@@ -12,4 +12,4 @@ and move them to your /usr/local/bin directory
 A Linux Command to get the number of characters containing in a string
 
 Usage:
-  charc <string>
+  ``` charc <string> ```
